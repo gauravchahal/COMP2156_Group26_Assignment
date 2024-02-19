@@ -1,0 +1,1 @@
+COMP2156 at George Brown College focuses on DevOps, crucial for seamless integration and deployment post-coding. Students learn to utilize GitHub, deployment technologies, and automation to streamline processes. The course empowers students with skills to manage software development lifecycles effectively, preparing them for careers in modern software development environments.
